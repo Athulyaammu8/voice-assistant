@@ -15,4 +15,4 @@ Features
 8. Math Calculations: Performs basic calculations based on user input.
 9. Activation Greeting: Responds with a greeting when activated by the phrase "Hey Assistant."
 
-for more details you can refer this report
+for more details you can refer this report AI Report2.docx
